@@ -49,9 +49,10 @@ a{
 
 img{
     float: left;
-      border-radius: 100px;         /* Faz a imagem flutuar à direita do texto */
-      width: 60px;          /* Define o tamanho da imagem */
-      height: auto;         /* Mantém a proporção da imagem */
+      border-radius: 100px;         
+      width: 60px;          
+      height: auto;         
       margin-left: 150px;
       justify-content: space-between;
+      
 }
